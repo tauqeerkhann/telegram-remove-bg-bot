@@ -1,0 +1,15 @@
+{
+    "name": "telegram-bot",
+    "description": "Telegram Bot for Render.com",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ]
+}
